@@ -1,4 +1,9 @@
 {
+  "TokenResponse": [
+    { "token": "1", "expiration": "2020-02-24T17:18:262" },
+    { "token": "2", "expiration": "2020-02-24T17:18:262" },
+    { "token": "3", "expiration": "2020-02-24T17:18:262" }
+  ],
   "posts": [
     { "id": 1, "title": "Post 1" },
     { "id": 2, "title": "Post 2" },
