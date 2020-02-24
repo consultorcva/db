@@ -1,4 +1,7 @@
 {
+  "OwnerResponse": { 
+    "Id": 1, "RoleId": "1", "FirstName": "Digiflow", "LastName": "S.A."
+  },
   "TokenResponse": { 
     "token": "1", "expiration": "2020-02-24T17:18:26Z" 
   },
